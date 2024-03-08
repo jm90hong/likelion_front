@@ -12,33 +12,22 @@ import com.my.likelion_front.vo.User;
 public class HomeController {
 
 	
-	@Autowired
-	UserService userService;
 	
-	
-	@GetMapping("findOne")
-	@ResponseBody
-	public User findOne() {
-		
-		User user = userService.findOne();
-		
-		return user;
-	}
 	
 	
 	@GetMapping("")
 	public String home() {
 		
-		
-		
 		return "home";
 	}
+	
 	
 	@GetMapping("js-study")
 	public String jsStudy() {
 		
-		return "js-study";
+		return "js-study1";
 	}
+	
 	
 	@GetMapping("rest-api")
 	public String restApi() {

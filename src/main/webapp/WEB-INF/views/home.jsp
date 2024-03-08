@@ -66,57 +66,57 @@
 				  <tbody>
 				    <tr>
 				      <th scope="row">1</th>
-				      <td>파묘</td>
+				      <td>재미있는 영화</td>
 				      <td>5129210 명</td>
-				      <td>2024-02-02</td>
+				      <td>2024-04-01</td>
 				    </tr>
 				    <tr>
 				      <th scope="row">1</th>
-				      <td>파묘</td>
+				      <td>재미있는 영화</td>
 				      <td>5129210 명</td>
-				      <td>2024-02-02</td>
+				      <td>2024-04-01</td>
 				    </tr>
 				    <tr>
 				      <th scope="row">1</th>
-				      <td>파묘</td>
+				      <td>재미있는 영화</td>
 				      <td>5129210 명</td>
-				      <td>2024-02-02</td>
+				      <td>2024-04-01</td>
 				    </tr>
-				     <tr>
+				    <tr>
 				      <th scope="row">1</th>
-				      <td>파묘</td>
+				      <td>재미있는 영화</td>
 				      <td>5129210 명</td>
-				      <td>2024-02-02</td>
+				      <td>2024-04-01</td>
 				    </tr>
-				     <tr>
+				    <tr>
 				      <th scope="row">1</th>
-				      <td>파묘</td>
+				      <td>재미있는 영화</td>
 				      <td>5129210 명</td>
-				      <td>2024-02-02</td>
+				      <td>2024-04-01</td>
 				    </tr>
-				     <tr>
+				    <tr>
 				      <th scope="row">1</th>
-				      <td>파묘</td>
+				      <td>재미있는 영화</td>
 				      <td>5129210 명</td>
-				      <td>2024-02-02</td>
+				      <td>2024-04-01</td>
 				    </tr>
-				     <tr>
+				    <tr>
 				      <th scope="row">1</th>
-				      <td>파묘</td>
+				      <td>재미있는 영화</td>
 				      <td>5129210 명</td>
-				      <td>2024-02-02</td>
+				      <td>2024-04-01</td>
 				    </tr>
-				     <tr>
+				    <tr>
 				      <th scope="row">1</th>
-				      <td>파묘</td>
+				      <td>재미있는 영화</td>
 				      <td>5129210 명</td>
-				      <td>2024-02-02</td>
+				      <td>2024-04-01</td>
 				    </tr>
-				     <tr>
+				    <tr>
 				      <th scope="row">1</th>
-				      <td>파묘</td>
+				      <td>재미있는 영화</td>
 				      <td>5129210 명</td>
-				      <td>2024-02-02</td>
+				      <td>2024-04-01</td>
 				    </tr>
 				    
 				  </tbody>

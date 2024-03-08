@@ -21,11 +21,18 @@ dependencies {
 	providedRuntime 'org.springframework.boot:spring-boot-starter-tomcat'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	
-	// https://mvnrepository.com/artifact/jakarta.servlet.jsp.jstl/jakarta.servlet.jsp.jstl-api
+	//jstl
 	implementation group: 'jakarta.servlet.jsp.jstl', name: 'jakarta.servlet.jsp.jstl-api', version: '3.0.0'
 	
-	// https://mvnrepository.com/artifact/org.apache.tomcat.embed/tomcat-embed-jasper
+	// tomcat-jsp
 	implementation group: 'org.apache.tomcat.embed', name: 'tomcat-embed-jasper', version: '10.1.19'
+	
+	//mybatis
+	implementation group: 'org.mybatis.spring.boot', name: 'mybatis-spring-boot-starter', version: '3.0.3'
+	
+	
+	//mariadb
+	implementation group: 'org.mariadb.jdbc', name: 'mariadb-java-client', version: '3.3.3'
 	
 }
 

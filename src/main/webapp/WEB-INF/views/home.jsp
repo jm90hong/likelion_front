@@ -13,9 +13,7 @@
 
 
 <body>
-	
 	<header>
-	
 		<div class="inner">
 			<img class="logo" src="./image/logo.png"/>
 			<div>
@@ -129,11 +127,11 @@
 	</div>
 	
 	
-	<div class="section" >
+	<footer class="section" >
 		<div class="inner">
-		
+			
 		</div>
-	</div>
+	</footer>
 	
 	
 </body>
